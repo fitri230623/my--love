@@ -1,5 +1,3 @@
-# my--love
-"khusus untuk pacarku evan setiawan"
 <!DOCTYPE html>
 <html lang="id">
 <head>
